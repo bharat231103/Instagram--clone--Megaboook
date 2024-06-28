@@ -1,3 +1,3 @@
-# Instagram--clone--Megaboook
+# Instagram Like Features now in Megaboook
 
-"Megabook is clone of instagram that gives the same features as instagram".
+"Megabook is not a  clone of instagram that gives the same features as instagram".
